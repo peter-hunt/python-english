@@ -7,13 +7,13 @@ Python English Parser is a Python library for parsing English text.
 Use git to install python-english.
 
 ```bash
-pip install foobar
+git install https://github.com/peter-hunt/python-english.git
 ```
 
 ## Usage
 
 ```bash
-~/ $ python3 python-english [file]
+python3 python-english [file]
 ...
 ```
 
